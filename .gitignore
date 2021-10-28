@@ -1,0 +1,5 @@
+tmp/
+Tumbs.db
+.DS_Store
+*._old
+*._backup
